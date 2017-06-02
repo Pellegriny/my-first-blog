@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+Barrys-MacBook-Pro:djangogirls barrypirlo
+/static
+.DS_Store
